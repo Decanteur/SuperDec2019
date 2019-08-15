@@ -15,6 +15,17 @@
 
   
 <channels>
+<channel>
+      <name>[COLOR cyan][/COLOR][COLOR yellow]                         SuperDec[/COLOR]</name>
+  <thumbnail>https://www.sideshowtoy.com/wp-content/uploads/2016/11/star-wars-darth-vader-helmet-prop-replica-efx-collectibles-silo-902917-1.png</thumbnail>
+<fanart>http://im.ziffdavisinternational.com/t/ign_es/screenshot/default/darth-vader_6wuh.1920.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://github.com</externallink>
+</channel>
+  </channels>
+ 
+   
+<channels>
  
 <channel>
       <name>[COLOR cyan][/COLOR][COLOR light blue]             [/COLOR][COLOR yellow] 1[/COLOR]-Agosto-2019[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
